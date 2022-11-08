@@ -11,7 +11,7 @@
 
 <h3 align="left">Conéctate conmigo:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/pablo-canavesi" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="pablo-canavesi" height="40" width="50" /></a>
+<a href="https://www.linkedin.com/in/pablo-canavesi-b1381485" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="pablo-canavesi" height="40" width="50" /></a>
 </p>
 
 <a href="https://github.com/pablocana">
